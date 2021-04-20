@@ -2,6 +2,7 @@
 
 ## Version 3.0
 Added additional apples and obstacles to original Snake AI
+
 Version 2.0 - Added obstacles to original Snake AI
 
 ## Dependencies
