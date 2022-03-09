@@ -1,7 +1,7 @@
 # Snake AI
 
 ## Version 3.0
-Added additional apples and obstacles to original Snake AI
+Added additional apples to original Snake AI (now Snake map has 2 apples and 1 obstacle).
 
 Version 2.0 - Added obstacles to original Snake AI
 
